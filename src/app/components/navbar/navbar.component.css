@@ -1,0 +1,128 @@
+.nav {
+    background-color: #0f0f0f;
+    padding-bottom: 15px;
+}
+
+.you-logo {
+    margin-left: 20px;
+    fill: currentColor;
+}
+
+.external-icon {
+    color: white;
+    display: block;
+    width: 70%;
+    height: 34px;
+    margin-top: 7px;
+}
+
+.menu {
+    margin-left: 20px;
+    border-radius: 30px 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.menu:hover {
+    background-color: #404040;
+
+}
+
+.nav-bar {
+    margin-top: 8px;
+}
+
+.search input {
+    width: 35rem;
+    margin: 3px 0;
+    border-radius: 30px 0px 0px 30px;
+    border: solid#292929;
+    border-width: 1px;
+    padding-left: 17px;
+    font-size: 18px;
+    color: white;
+    background-color: #0f0f0f;
+}
+
+.search input {
+    outline: none;
+}
+
+.search-icon {
+    background-color: #292929;
+    color: white;
+    padding: 10px 20px;
+    margin: 3px 0px;
+    border-radius: 0px 30px 30px 0px;
+    cursor: pointer;
+}
+
+.search-icon svg {
+    margin-bottom: 4px;
+    margin-right: 3px;
+}
+
+.mic {
+    background-color: #292929;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 60px;
+    margin-left: 17px;
+    cursor: pointer;
+}
+
+.mic:hover {
+    background-color: #424141;
+}
+
+.top-icons {
+    color: white;
+    justify-content: right;
+}
+
+.account {
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.account img {
+    height: 40px;
+    margin-top: 6px;
+    border-radius: 60px;
+}
+
+.create {
+    margin: 0 5px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 56px;
+    padding: 10px 13px;
+}
+.create:hover{
+    background-color: #292929;
+}
+
+.create svg {
+    width: 25px;
+}
+
+.noti {
+    margin: 0 5px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 56px;
+    padding: 10px 13px;
+}
+.noti:hover{
+    background-color: #292929;
+}
+
+.noti svg {
+    width: 25px;
+}
+
+.third {
+    justify-content: end;
+}
+
+    
