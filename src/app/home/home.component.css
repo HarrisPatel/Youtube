@@ -1,6 +1,22 @@
+
 .menu{
-    width: 5%;
+    width: 4%;
+    background-color: #0f0f0f;
+    color: white;
+    font-size: 11px;
+    padding-bottom: 31.2%;
 }
 .home-page{
-    padding-top: 85px;
+    padding-top: 72px;
+}
+.side-icon{
+    padding: 10px;
+    text-align: center;
+    fill: currentColor;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.side-icon p {
+    margin-bottom: 0;
+    margin-top: 4px;
 }
